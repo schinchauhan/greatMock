@@ -1,6 +1,8 @@
+import Routing from "./routes"
+
 const Application = () => {
   return (
-    <h1>Home Application</h1>
+    <Routing />
   )
 }
 
